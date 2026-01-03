@@ -67,11 +67,4 @@ This project is open source, but all use, modifications, or distributions requir
 
 **Enjoy secure, private meetings with Knkt!** If you have questions, check the GitHub repo or contact the maintainer.
 
----
 
-### Changes Made
-- **License Section**: Changed from "open-source under the MIT License" to a custom note requiring contact for any use/modifications. This protects your work while allowing sharing.
-- **Contributing Section**: Added a note to contact you before contributing.
-- **Contact Info**: I added placeholders like "[your email]"—replace with your actual details (e.g., "contact@yourdomain.com" or "@yourgithubusername").
-
-Upload this to your GitHub repo as `README.md`. If you want to add your contact info or further tweaks, let me know! This keeps it open but controlled.
